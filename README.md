@@ -1,6 +1,4 @@
-# spam-wa2024
-
-User SSH ||
+# USER SSH
 
 apt update -y && apt upgrade -y ||
 
@@ -18,7 +16,7 @@ python run.py
 
 
 
-User Ubuntu ||
+# USER UBUNTU
 
 apt update && apt upgrade ||
 
